@@ -1,4 +1,4 @@
-CMS-institutes-map
+CMS institutes map
 ==================
 
-A visual record of all CMS collaborating institutes and the projects they participate in
+Replacement for the outdated map currently on the CMS website. Work in progress!
